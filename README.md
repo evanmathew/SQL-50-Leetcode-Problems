@@ -1,5 +1,5 @@
 
-# SQL 50 Practice on LeetCode  
+# ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) SQL 50 Practice on LeetCode  
 
 This repository contains solutions and explanations for the **SQL 50** challenge on LeetCode, designed to enhance SQL skills by covering a variety of core and advanced concepts.
 
